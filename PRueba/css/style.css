@@ -1,0 +1,157 @@
+body{
+	margin:0;
+}
+
+.navbar{
+	position: fixed;
+	z-index: 1000;
+	width: 100%;
+}
+
+.bgnav{
+	background-color: white;
+}
+
+.navbar img{
+	height: 70px;
+}
+
+.navbar li{
+	display: inline;
+	color: green;
+	font-size: 20px;
+}
+
+.jumbotron{
+	margin-top: 20px;
+	background-color: brown;
+}
+
+.img1 h3{
+	text-align: left;
+	margin-left: 90px;
+}
+
+.ps1 h3{
+	text-align: center;
+	font-size: 50px;
+	color: darkgreen;
+}
+
+.ps1 p{
+	color: gray;
+	text-align: center;
+	margin-right: 30px;
+}
+
+.img1 img{
+	height: auto 0;
+	width: 60%;
+	margin-left: 10%;
+}
+
+.ps1{
+	margin-top: 50px;	
+	text-align: left;
+}
+
+
+
+.sepa{
+	height: 70px;
+	width: 100%;
+	background-color: gray;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	border-top: solid 1px blue;
+	border-bottom: solid 1px blue;
+	text-align: center;
+}
+
+.sec1{
+}
+
+.sepa h2{
+	display: inline-block;
+	color: white;
+	font-size: 30px;
+	margin-top: 12px;
+}
+
+.dona{
+	display: inline-block;
+	margin-left: 10px;
+	margin-bottom: 7px;
+}
+.sepa2{
+	margin-top: 50px;
+	margin-bottom: 30px;
+	border-top: solid 1px green;
+	border-bottom: solid 1px green;
+}
+
+.box img{
+	height: auto 0;
+	width: 40%;
+}
+
+.sec2{
+	margin-top: 100px;
+	text-align: center;
+}
+
+.foot1{
+	margin-top: 15px;
+	height: 100px;
+	width: 50%;
+	float: left;
+}	
+
+.forma{
+	height: 300px;
+	width: 100%;
+	margin-top: 30px;
+	background-color: green;
+	display: inline-block;
+}
+.articulos p{
+	text-align: left;
+	background-color: 
+	width: 100%
+}	
+
+.articulos img{
+	height: 100px;
+}
+
+.articulos{
+	background-color: white;
+	border:solid 1px black;
+	text-align: center;
+}
+
+.cajas{
+	display: inline-flex;
+	text-align: center;
+	height: auto;
+	margin-top: 0;
+	margin-left: 5%;
+}
+
+.cajas2{
+	display: inline-flex;
+	text-align: center;
+	height: auto;
+	margin-top: 30px;
+	margin-left: 3%;
+
+}
+
+.sepablog{
+	text-align: center;
+	margin-top: 20px;
+	margin-right: 50px;
+}
+.sepablog h1{
+	color: darkgreen;
+}
